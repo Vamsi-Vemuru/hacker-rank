@@ -1,0 +1,528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"form"
+			],
+			[
+				"S",
+				"SignUpForm"
+			],
+			[
+				"Sig",
+				"SignUpForm"
+			],
+			[
+				"SI",
+				"SignUpAdmin"
+			],
+			[
+				"try",
+				"trydjango18"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"dig",
+				"dig2"
+			],
+			[
+				"d",
+				"dig1"
+			],
+			[
+				"di",
+				"dig1"
+			],
+			[
+				"dgi",
+				"dig2"
+			],
+			[
+				"min",
+				"minutes"
+			],
+			[
+				"list",
+				"list2"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"dict",
+				"dict_words"
+			],
+			[
+				"build",
+				"build_dict"
+			],
+			[
+				"lis",
+				"list2"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"new",
+				"newNums"
+			],
+			[
+				"ele",
+				"ele2"
+			],
+			[
+				"tup",
+				"tuples"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bac",
+				"a_back_half"
+			],
+			[
+				"fron",
+				"front_half"
+			],
+			[
+				"ba",
+				"a_back_half"
+			],
+			[
+				"a",
+				"a_front_half"
+			],
+			[
+				"b",
+				"bad"
+			],
+			[
+				"not_",
+				"not_ind"
+			],
+			[
+				"not",
+				"not_bad"
+			],
+			[
+				"bad",
+				"bad_ind"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"formatted",
+				"formattedRole"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/WORK/MSIT/IT/WP/Django/mysite/mysite/urls.py",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/urls.py",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/templates/polls/index.html",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/templates/polls/detail.html",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/templates/polls/results.html",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/views.py",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/mysite/settings.py",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/admin.py",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/templates/admin/base_site.html",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/templates/admin/index.html",
+		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/models.py",
+		"/E/WORK/MSIT/IT/WP/Django/trydjango18/src/newsletter/forms.py",
+		"/E/WORK/MSIT/IT/WP/Django/trydjango18/src/newsletter/views.py",
+		"/E/WORK/MSIT/IT/WP/Django/trydjango18/src/newsletter/admin.py",
+		"/E/WORK/MSIT/IT/WP/Django/trydjango18/src/templates/home.html",
+		"/E/WORK/MSIT/IT/WP/Django/trydjango18/src/trydjango18/urls.py",
+		"/E/WORK/MSIT/IT/WP/Django/trydjango18/src/trydjango18/settings.py",
+		"/E/WORK/MSIT/IT/WP/Django/trydjango18/src/newsletter/models.py",
+		"/E/WORK/MSIT/IT/WP/Django/trydjango18/src/newsletter/templates/home.html",
+		"/E/WORK/MSIT/IT/WP/Django/venv/src/templates/home.html",
+		"/E/WORK/MSIT/IT/WP/Django/venv/src/test_project/views.py",
+		"/E/WORK/MSIT/IT/WP/Django/venv/src/test_project/__init__.py",
+		"/E/WORK/MSIT/IT/WP/Django/venv/src/test_project/urls.py",
+		"/E/WORK/MSIT/IT/WP/Django/venv/src/test_project/settings.py",
+		"/E/WORK/MSIT/IT/WP/Week1_Exam/task2/index.html",
+		"/E/WORK/MSIT/IT/WP/Week1_Exam/task2/index.js",
+		"/E/WORK/MSIT/IT/WP/Week1_Exam/task2/style.css",
+		"/E/WORK/cordova/workshop/www/index.html",
+		"/E/WORK/cordova/workshop/www/js/index.js",
+		"/E/WORK/MSIT/IT/WP/Python/weekTest.py",
+		"/E/WORK/MSIT/IT/WP/Python/timeToWords.py",
+		"/E/WORK/MSIT/IT/WP/Python/list1.py",
+		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/list1.py",
+		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/list2.py",
+		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/solution/list2.py",
+		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/test.py",
+		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/solution/list1.py",
+		"/E/WORK/MSIT/IT/WP/Python/mimic.py",
+		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/solution/wordcount.py",
+		"/E/WORK/MSIT/IT/WP/Python/wordcount.py",
+		"/E/WORK/MSIT/IT/WP/Python/list2.py",
+		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/mimic.py",
+		"/E/WORK/MSIT/IT/WP/Week1_Exam/task/index.html",
+		"/E/WORK/MSIT/IT/WP/Week1_Exam/task/styles.css",
+		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/string2.py",
+		"/E/WORK/MSIT/IT/WP/portfolio/task 2/style.css",
+		"/E/WORK/MSIT/IT/WP/Resume/resume.html",
+		"/E/WORK/MSIT/IT/WP/Resume/resume.js",
+		"/E/WORK/MSIT/IT/WP/Resume/style.css",
+		"/E/WORK/MSIT/IT/WP/test/BMI/www/js/index.js",
+		"/E/WORK/MSIT/IT/WP/test/BMI/www/css/styles.css",
+		"/E/WORK/MSIT/IT/WP/test/BMI/www/index.html",
+		"/E/WORK/MSIT/IT/WP/Python/prob7.py",
+		"/E/WORK/MSIT/IT/WP/Python/prob5.py",
+		"/E/WORK/MSIT/IT/WP/Python/prob3.py",
+		"/E/WORK/MSIT/IT/WP/Python/prob2.py",
+		"/E/WORK/MSIT/IT/WP/Python/prob6.py",
+		"/E/WORK/MSIT/IT/WP/Python/prob1.py",
+		"/E/WORK/MSIT/IT/WP/Python/prob4.py",
+		"/E/WORK/MSIT/IT/WP/test/BMI/www/spec/helper.js",
+		"/E/WORK/MSIT/IT/WP/test/BMI/www/css/index.css",
+		"/E/WORK/MSIT/IT/WP/jsudacity/frontend-nanodegree-resume/js/helper.js",
+		"/E/WORK/MSIT/IT/WP/jsudacity/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/E/WORK/MSIT/IT/WP/jsudacity/frontend-nanodegree-resume/index.html",
+		"/E/WORK/cordova/hello/www/css/index.css",
+		"/C/Users/vamsi/Downloads/Compressed/cordova-tutorial-master/cordova-tutorial-master/starter-www/index.html",
+		"/C/Users/vamsi/Downloads/Compressed/cordova-tutorial-master/cordova-tutorial-master/starter-www/assets/css/styles.css",
+		"/E/WORK/cordova/hello/www/index.html",
+		"/E/WORK/cordova/hello/www/js/index.js",
+		"/E/WORK/cordova/hello/config.xml",
+		"/E/WORK/MSIT/IT/WP/portfolio/framework/css/main.css",
+		"/E/WORK/MSIT/IT/WP/portfolio/task 2/task2.html",
+		"/E/WORK/MSIT/IT/WP/portfolio/toplist/style.css",
+		"/E/WORK/MSIT/IT/WP/portfolio/toplist/index.html",
+		"/E/WORK/MSIT/IT/WP/portfolio/toplist/test.js",
+		"/E/WORK/MSIT/IT/WP/portfolio/framework/test.html",
+		"/C/Users/vamsi/Downloads/Compressed/Energy Features/Energy Features/writedata.m",
+		"/C/Users/vamsi/Downloads/Compressed/Energy Features/Energy Features/demo.m",
+		"/C/Users/vamsi/Downloads/Compressed/Energy Features/Energy Features/dtsvm.m",
+		"/C/Users/vamsi/Downloads/Compressed/Energy Features/Energy Features/ovrtrain.m",
+		"/C/Users/vamsi/Downloads/Compressed/Energy Features/Energy Features/preproc.m",
+		"/C/Users/vamsi/Downloads/Compressed/framework/framework/test.html",
+		"/C/Users/vamsi/Downloads/Compressed/framework/framework/css/main.css",
+		"/E/WORK/Student Dashboard/Project/Proto/studash.html",
+		"/E/WORK/MSIT/IT/WP/portfolio/framework/main.css",
+		"/E/WORK/MSIT/IT/WP/test.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"num_word",
+			"test",
+			"i",
+			"print_top",
+			"img",
+			"height",
+			"25px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"timeInWords",
+			"string"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hackerrank.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
