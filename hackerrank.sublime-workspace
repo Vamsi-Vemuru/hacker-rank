@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"n",
+				"num_3"
+			],
+			[
+				"num",
+				"num_2"
+			],
+			[
+				"nu",
+				"num_2"
+			],
+			[
 				"for",
 				"form"
 			],
@@ -255,6 +267,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "python/Introduction/loops.py",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -302,8 +322,22 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/E/WORK/hackerrank",
+		"/E/WORK/hackerrank/python",
+		"/E/WORK/hackerrank/python/Introduction"
+	],
 	"file_history":
 	[
+		"/E/WORK/hackerrank/python/Introduction/IntAllSizes.py",
+		"/E/WORK/hackerrank/python/Introduction/PowerMod.py",
+		"/E/WORK/hackerrank/python/Introduction/DivMod.py",
+		"/E/WORK/hackerrank/python/Introduction/Division.py",
+		"/E/WORK/hackerrank/python/Introduction/ArithmaticOperators.py",
+		"/E/WORK/hackerrank/python/Introduction/RawInput.py",
+		"/E/WORK/hackerrank/python/Introduction/HelloWorld.py",
+		"/E/WORK/hackerrank/python/Introduction/SolveMeFirst.py",
 		"/E/WORK/MSIT/IT/WP/Django/mysite/mysite/urls.py",
 		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/urls.py",
 		"/E/WORK/MSIT/IT/WP/Django/mysite/polls/templates/polls/index.html",
@@ -434,8 +468,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "python/Introduction/loops.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
