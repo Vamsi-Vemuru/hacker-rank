@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"inp2"
+			],
+			[
+				"inp",
+				"inp2"
+			],
+			[
+				"li",
+				"li1"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"dif",
+				"diff2"
+			],
+			[
+				"set",
+				"set2"
+			],
+			[
 				"n",
 				"num_3"
 			],
@@ -54,10 +78,6 @@
 			[
 				"if",
 				"if	if"
-			],
-			[
-				"in",
-				"input"
 			],
 			[
 				"dig",
@@ -248,10 +268,6 @@
 				"width"
 			],
 			[
-				"li",
-				"link	Tag"
-			],
-			[
 				"al",
 				"alt	Attr"
 			],
@@ -268,10 +284,10 @@
 	"buffers":
 	[
 		{
-			"file": "python/Introduction/loops.py",
+			"file": "python/Strings/Capitalize.py",
 			"settings":
 			{
-				"buffer_size": 56,
+				"buffer_size": 149,
 				"line_ending": "Windows"
 			}
 		}
@@ -299,12 +315,12 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 392.0
 	},
 	"console":
 	{
@@ -326,10 +342,31 @@
 	[
 		"/E/WORK/hackerrank",
 		"/E/WORK/hackerrank/python",
-		"/E/WORK/hackerrank/python/Introduction"
+		"/E/WORK/hackerrank/python/Strings"
 	],
 	"file_history":
 	[
+		"/E/WORK/hackerrank/python/Introduction/printfunction.py",
+		"/E/WORK/hackerrank/python/Strings/stringformatting.py",
+		"/E/WORK/hackerrank/python/Strings/designerdoormat.py",
+		"/E/WORK/hackerrank/python/Strings/textwrap.py",
+		"/E/WORK/hackerrank/python/Strings/textalignment.py",
+		"/E/WORK/hackerrank/python/Strings/stringvalidators.py",
+		"/E/WORK/hackerrank/python/Strings/findastring.py",
+		"/E/WORK/hackerrank/python/Introduction/percentage.py",
+		"/E/WORK/hackerrank/python/Strings/mutations.py",
+		"/E/WORK/hackerrank/python/Strings/splitandjoin.py",
+		"/E/WORK/hackerrank/python/Strings/swapcase.py",
+		"/E/WORK/MSIT/IT/WP/Python/list1.py",
+		"/E/WORK/hackerrank/python/Datatypes/nestedlist.py",
+		"/E/WORK/hackerrank/python/Datatypes/listcomprehensions.py",
+		"/E/WORK/hackerrank/python/Datatypes/sets-symmetricdiff.py",
+		"/E/WORK/hackerrank/python/Datatypes/tuples.py",
+		"/E/WORK/hackerrank/python/Datatypes/lists.py",
+		"/E/WORK/hackerrank/python/Introduction/interchangetwonumbers.py",
+		"/E/WORK/hackerrank/python/Introduction/whatsyourname.py",
+		"/E/WORK/hackerrank/python/Datatypes/secondlargestelement.py",
+		"/E/WORK/hackerrank/python/Introduction/loops.py",
 		"/E/WORK/hackerrank/python/Introduction/IntAllSizes.py",
 		"/E/WORK/hackerrank/python/Introduction/PowerMod.py",
 		"/E/WORK/hackerrank/python/Introduction/DivMod.py",
@@ -369,7 +406,6 @@
 		"/E/WORK/cordova/workshop/www/js/index.js",
 		"/E/WORK/MSIT/IT/WP/Python/weekTest.py",
 		"/E/WORK/MSIT/IT/WP/Python/timeToWords.py",
-		"/E/WORK/MSIT/IT/WP/Python/list1.py",
 		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/list1.py",
 		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/list2.py",
 		"/C/Users/vamsi/Downloads/google-python-exercises/google-python-exercises/basic/solution/list2.py",
@@ -473,19 +509,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "python/Introduction/loops.py",
+					"file": "python/Strings/Capitalize.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 56,
+						"buffer_size": 149,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								56,
-								0
+								149,
+								149
 							]
 						],
 						"settings":
@@ -535,7 +571,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 254.0
+		"height": 257.0
 	},
 	"output.find_results":
 	{
